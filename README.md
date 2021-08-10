@@ -1,1 +1,1 @@
-# Flight-Fare-Prediction-WebApp
+# flight_fare_prediction
